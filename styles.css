@@ -1,0 +1,27 @@
+body{
+background-color: darkslategrey;
+font-family: 'Megrim', cursive;
+color: white;
+}
+.w-100{
+    height: 0%;
+}
+.jumbotron {
+    color: white;
+    height: 65%;
+    background-image:url(skuldalithcover2.jpg);
+    background-size: cover;
+}
+.d-flex {
+    justify-content: center;
+    height: 100%;
+}
+
+h2, h5, p{
+    color: white;
+}
+
+p, h5, .lead {
+  font-style: oblique;
+}
+
